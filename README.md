@@ -3,7 +3,7 @@
   In this project we will use linear algebra techniques to proccess an image
   
 # Tasks:
-  1)Reduce image size
+  1) Reduce image size
 
 # Methods:
   1) SVD
